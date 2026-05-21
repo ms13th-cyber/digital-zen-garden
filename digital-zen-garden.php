@@ -2,8 +2,8 @@
 /*
 Plugin Name: Digital Zen Garden
 Description: ダッシュボードを「静寂の庭」へ。メニューのスクロール不具合を修正した最終形態。
-Version: 1.0.0
-Tested up to: 6.9.4
+Version: 1.0.1
+Tested up to: 7.0.0
 Requires PHP: 8.3.23
 Author: masato shibuya (Image-box Co., Ltd.)
 License: GPL2
